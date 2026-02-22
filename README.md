@@ -1,5 +1,5 @@
 # Statistiska_metoder_labb
-##Multiple Linear Regression (OLS).
+## Multiple Linear Regression (OLS).
 
 Implementation of multiple linear regression using Ordinary Least Squares (OLS) from scratch with NumPy and SciPy.
 
